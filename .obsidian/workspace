@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kubernetes.md",
+            "file": "yaml config file.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes.md",
+                "file": "yaml config file.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "00c67c69861c0a2c",
+  "active": "3198a499e75cc770",
   "lastOpenFiles": [
+    "Volumes.md",
     "StatefulSet.md",
-    "Attachment/statefulSet.png",
+    "Namespaces.md",
     "Kubectl commands.md",
     "K8S services.md",
-    "K8s architecture.md",
-    "yaml config file.md",
-    "Ingress.md",
     "K8s components.md",
+    "K8s architecture.md",
     "Kubernetes.md",
-    "Namespaces.md"
+    "Attachment/statefulSet.png",
+    "yaml config file.md"
   ]
 }
