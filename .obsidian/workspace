@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "c0d7a7023712c070",
+    "type": "split",
+    "children": [
+      {
+        "id": "3198a499e75cc770",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "StatefulSet.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "363eb4bcd7b2a48a",
+    "type": "split",
+    "children": [
+      {
+        "id": "54077511af0871d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00c67c69861c0a2c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3e35558b8b46bb32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237
+  },
+  "right": {
+    "id": "61e792547691211e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f59ad64b87824ec7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e8d25b5ddcfc6b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "StatefulSet.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3198a499e75cc770",
+  "lastOpenFiles": [
+    "StatefulSet.md",
+    "statefulSet.png",
+    "Kubectl commands.md",
+    "K8S services.md",
+    "K8s architecture.md",
+    "yaml config file.md",
+    "Ingress.md",
+    "K8s components.md",
+    "Kubernetes.md",
+    "Namespaces.md"
+  ]
+}
